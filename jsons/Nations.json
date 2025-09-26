@@ -144,6 +144,23 @@
 
 	    "cities": ["Almaty", "Astana", "Shymkent", "Turkestan", "Otrar", "Ust-Kamenogorsk", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Taldykorgan", "Kostanai"]
   },
+//antianpower
+I cannot get acces to discord, so I will put my community civilisation Idea here.
+Name: antian power redistributers
+theme: redistributing power to the capital, and gold is power, as is food. production is a type of power, although mabye not redistributing that. though.
+downside: without redistribution, kinda useless.
+ability name: the empire as wide as the capital is tall
+ability:-100% gold in non capital citys, less production, less food, more gold in capital, more production in capital, food in capital is not altered. production into gold is more efficient(3 prod to 1 gold, or something similar) balance as you like. less maintainance costs for roads and railways. +1 production per pop in capital, +1 gold per 2 pop in capital, +1 science per pop in capital, less culture in non capital citys, more culture in capital, less culture in places that are not capital.
+nation symbol:black lightning bolt
+nation symbol background:red
+unique tile improvement:power line, reduces movement cost more than the railway. unlocked at electricity.
+unique building names: (recource) redistributer
+unique building effect:-1(resource) in this city, +1(resource) in capital.
+unique unit name: antian battery artillery
+unique unit replaces: artillery
+unique unit differences: more bombardment strength, loss of bonus vs citys, - movement when not on power line, +1 attack, range of between 4 and 5, unlocked at electricity instead of dynamite.
+prefered victory type: domination.
+favored religeon:christianity
 //Belias
 {
 		"name": "Wonderland",
